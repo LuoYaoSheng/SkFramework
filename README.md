@@ -10,7 +10,7 @@ SkFramework 是基于AOP的页面万能跳转库.
 
 **Using [CocoaPods](http://cocoapods.org)**
 
-1.Add the pod `WZMarqueeView` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
+1.Add the pod `SkFramework` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 ```ruby
 pod 'SkFramework', '~> 0.0.1’
 ```
@@ -34,7 +34,7 @@ Check out the [example project](https://github.com/LuoYaoSheng/SkFramework/tree/
 
 **Usage**
 
-The way to create a WZMarqueeView is:
+The way to create a SkFramework is:
 
 ```objc
 SkCmmObject *object = [[SkCmmObject alloc]init];
