@@ -30,7 +30,7 @@ pod 'SkFramework', '~> 0.0.1’
 
 **Example location**
 
-Check out the [example project](https://github.com/LuoYaoSheng/SkFramework/tree/master/SkFramework) included in the repository. It contains a few demos of the API in use for various scenarios. 
+Check out the [example project](https://github.com/LuoYaoSheng/SkFramework/tree/master/SkFrameworkDemo) included in the repository. It contains a few demos of the API in use for various scenarios. 
 
 **Usage**
 
