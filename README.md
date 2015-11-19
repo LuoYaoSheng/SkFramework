@@ -1,6 +1,6 @@
 #SkFramework
 
-SkFramework 是基于AOP的页面万能跳转库.
+SkFramework 是基于AOP的页面万能跳转库. -- 提交不到CocoaPods服务器，所以很遗憾删除该库文件
 
 
 ![SkFramework](Untitled.gif)
